@@ -1,4 +1,4 @@
-#Patchwork Sampler
+# Patchwork Sampler
 
 During the 1st year of my degree (2014) I was tasked  to create a visual display of 2 different patchworks using Python on IEP environment.
 
@@ -8,4 +8,4 @@ The colour of each patchwork item is chosen from the order of users colour choic
 
 The display is interactive is such that when a patchwork is clicked the colour of it changes to the next colour from the colour inputted order.
 
-I used <a href="/assets/graphics.py" title="Link to Download graphics.py" download="/graphics.py" class="link-styled link-styled--red">graphics.py</a> as the graphics module.
+I used graphics.py as the graphics module.
